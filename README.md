@@ -4,8 +4,6 @@ This thesis was submitted to Towson University's Department of Computer and Info
 Defended on: xx/xx/xxxx.
 <br>
 <br>
-This repo contains my Thesis' Code and Experiments implemented in PyTorch. 
-<br>
-The thesis used the epistemic uncertianty quantifications from http://arxiv.org/abs/1806.01768.
+This repo contains my Thesis' Code and Experiments implemented in PyTorch, which uses the epistemic uncertianty quantifications from http://arxiv.org/abs/1806.01768.
 <br>
 # Experiment Results
